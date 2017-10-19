@@ -50,7 +50,6 @@ var floatEl = function(options){
 
 
 
-
 jQuery(document).ready(function() {
   
   var standardsFloatEl = new floatEl({
